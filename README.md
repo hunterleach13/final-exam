@@ -1,3 +1,3 @@
-Welcome to my final exam website!
+Welcome to my final exam website on how to install PHP!
 
-I hope you enjoy an have a Happy Holidays!
+I hope you enjoy and have a Happy Holidays!
